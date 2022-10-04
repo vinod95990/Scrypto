@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Scrypto/static/css/main.b95b1bed.css",
-    "main.js": "/Scrypto/static/js/main.2062516d.js",
+    "main.css": "/Scrypto/static/css/main.20fe4c90.css",
+    "main.js": "/Scrypto/static/js/main.317026a8.js",
     "static/media/logo.png": "/Scrypto/static/media/logo.88491d7b7b8467c08a1a.png",
     "index.html": "/Scrypto/index.html",
-    "main.b95b1bed.css.map": "/Scrypto/static/css/main.b95b1bed.css.map",
-    "main.2062516d.js.map": "/Scrypto/static/js/main.2062516d.js.map"
+    "main.20fe4c90.css.map": "/Scrypto/static/css/main.20fe4c90.css.map",
+    "main.317026a8.js.map": "/Scrypto/static/js/main.317026a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.b95b1bed.css",
-    "static/js/main.2062516d.js"
+    "static/css/main.20fe4c90.css",
+    "static/js/main.317026a8.js"
   ]
 }
